@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c3dViz", "c3dViz.vcproj", "{1F396397-6D0E-46DB-84DB-D55FFA5FCDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F396397-6D0E-46DB-84DB-D55FFA5FCDCD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F396397-6D0E-46DB-84DB-D55FFA5FCDCD}.Debug|Win32.Build.0 = Debug|Win32
+		{1F396397-6D0E-46DB-84DB-D55FFA5FCDCD}.Release|Win32.ActiveCfg = Release|Win32
+		{1F396397-6D0E-46DB-84DB-D55FFA5FCDCD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
